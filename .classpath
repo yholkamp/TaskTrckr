@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/swingx-0.9.7.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/TaskTrackr/lib/swingx-0.9.7-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/forms.jar" sourcepath="lib/forms-src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/TaskTrackr/lib/forms-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/poi-3.2-FINAL-20081019.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/eclipse/TaskTrackr/lib/poi-3.2-FINAL/docs/apidocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
