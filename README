@@ -1,12 +1,12 @@
 >DESCRIPTION:
-TaskTrckr was built as a small personal tool while in a hurry, therefore it is not bugfree, might have rather ugly bits of code and does not come with ANY warranty. TaskTrckr is provided free of charge under the Creative Commons 'by-nc-sa' license:
+TaskTrckr was built as a small personal tool while in a hurry for usage on a Windows system, therefore it is not bugfree, might have rather ugly bits of code and does not come with ANY warranty. TaskTrckr is provided free of charge under the Creative Commons 'by-nc-sa' license:
 http://creativecommons.org/licenses/by-sa/3.0/nl/deed.en
 
 >COMPILING:
 Include the libraries in the /lib dir, compile.
 
 >USAGE:
-After running the application an icon will be added to your notification area, allowing you to add tasks and start tracking the time spent! 
+After compiling or downloading from http://nextpulse.nl/TaskTrckr.jar , running the application will result in an icon being added to your notification area, allowing you to add tasks and start tracking the time spent! 
 
 >NOTE: 
 The data of the application is saved (serialized) in the projects.dat file so make sure this file is read/writable by the user running the application, or your data will not be saved properly!
